@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeviceIdents>
+  <DeviceIdent>
+    <UserAgent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36</UserAgent>
+    <Browser>Unknown</Browser>
+    <OS>Unknown</OS>
+  </DeviceIdent>
+  <DeviceIdent>
+    <UserAgent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</UserAgent>
+    <Browser>Unknown</Browser>
+    <OS>Unknown</OS>
+  </DeviceIdent>
+</DeviceIdents>
+
